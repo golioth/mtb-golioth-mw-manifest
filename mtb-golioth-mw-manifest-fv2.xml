@@ -18,4 +18,19 @@ will be put into production with a full-featured platform of firmware, services 
         </version>
         </versions>
     </middleware>
+    <middleware>
+        <name>cJSON</name>
+        <id>cJSON</id>
+        <uri>https://github.com/DaveGamble/cJSON</uri>
+        <desc><![CDATA[<a href="https://github.com/DaveGamble/cJSON">cJSON</a> is an
+ultra-lightweight JSON parser in ANSI C]]></desc>
+        <category>Utilities</category>
+        <versions>
+        <version flow_version="2.0">
+            <num>v1.7.15</num>
+            <commit>v1.7.15</commit>
+            <desc>v1.7.15</desc>
+        </version>
+        </versions>
+    </middleware>
 </middleware>
