@@ -2,7 +2,7 @@
     <middleware>
         <name>golioth-firmware-sdk</name>
         <id>golioth-firmware-sdk</id>
-        <uri>https://github.com/goliothlabs/golioth-firmware-sdk</uri>
+        <uri>https://github.com/golioth/golioth-firmware-sdk</uri>
         <desc><![CDATA[<a href="https://golioth.io/">Golioth</a> is a straightforward commercial IoT
 development platform built for scale. Speed up development and increase the chances that your pilots
 will be put into production with a full-featured platform of firmware, services & cloud management.
@@ -12,9 +12,9 @@ will be put into production with a full-featured platform of firmware, services 
         <req_capabilities>cat1</req_capabilities>
         <versions>
         <version flow_version="2.0">
-            <num>af0fff8866b680cf805b9d0e29e51f96e1828df2</num>
-            <commit>af0fff8866b680cf805b9d0e29e51f96e1828df2</commit>
-            <desc>af0fff8866b680cf805b9d0e29e51f96e1828df2</desc>
+            <num>v0.1.0</num>
+            <commit>v0.1.0</commit>
+            <desc>v0.1.0</desc>
         </version>
         </versions>
     </middleware>
