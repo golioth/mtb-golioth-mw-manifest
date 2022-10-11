@@ -1,36 +1,36 @@
 <middleware>
-    <middleware>
-        <name>golioth-firmware-sdk</name>
-        <id>golioth-firmware-sdk</id>
-        <uri>https://github.com/golioth/golioth-firmware-sdk</uri>
-        <desc><![CDATA[<a href="https://golioth.io/">Golioth</a> is a straightforward commercial IoT
+  <middleware>
+    <name>golioth-firmware-sdk</name>
+    <id>golioth-firmware-sdk</id>
+    <uri>https://github.com/golioth/golioth-firmware-sdk</uri>
+    <desc><![CDATA[<a href="https://golioth.io/">Golioth</a> is a straightforward commercial IoT
 development platform built for scale. Speed up development and increase the chances that your pilots
 will be put into production with a full-featured platform of firmware, services & cloud management.
 <br><br>Have additional questions? Don't hesitate to reach out to us on
 <a href="https://golioth.io/discord">Discord</a>]]></desc>
-        <category>Middleware</category>
-        <req_capabilities>cat1</req_capabilities>
-        <versions>
-        <version flow_version="2.0">
-            <num>v0.3.0</num>
-            <commit>v0.3.0</commit>
-            <desc>v0.3.0</desc>
-        </version>
-        </versions>
-    </middleware>
-    <middleware>
-        <name>cJSON</name>
-        <id>cJSON</id>
-        <uri>https://github.com/DaveGamble/cJSON</uri>
-        <desc><![CDATA[<a href="https://github.com/DaveGamble/cJSON">cJSON</a> is an
+    <category>Middleware</category>
+    <req_capabilities>cat1</req_capabilities>
+    <versions>
+      <version flow_version="2.0">
+        <num>v0.3.0</num>
+        <commit>v0.3.0</commit>
+        <desc>v0.3.0</desc>
+      </version>
+    </versions>
+  </middleware>
+  <middleware>
+    <name>cJSON</name>
+    <id>cJSON</id>
+    <uri>https://github.com/DaveGamble/cJSON</uri>
+    <desc><![CDATA[<a href="https://github.com/DaveGamble/cJSON">cJSON</a> is an
 ultra-lightweight JSON parser in ANSI C]]></desc>
-        <category>Utilities</category>
-        <versions>
-        <version flow_version="2.0">
-            <num>v1.7.15</num>
-            <commit>v1.7.15</commit>
-            <desc>v1.7.15</desc>
-        </version>
-        </versions>
-    </middleware>
+    <category>Utilities</category>
+    <versions>
+      <version flow_version="2.0">
+        <num>v1.7.15</num>
+        <commit>v1.7.15</commit>
+        <desc>v1.7.15</desc>
+      </version>
+    </versions>
+  </middleware>
 </middleware>
