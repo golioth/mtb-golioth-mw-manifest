@@ -1,0 +1,2 @@
+golioth-firmware-sdk https://github.com/golioth/golioth-firmware-sdk
+cJSON https://github.com/DaveGamble/cJSON

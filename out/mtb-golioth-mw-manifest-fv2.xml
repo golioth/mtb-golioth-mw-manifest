@@ -12,9 +12,9 @@ will be put into production with a full-featured platform of firmware, services 
     <req_capabilities>cat1</req_capabilities>
     <versions>
       <version flow_version="2.0">
-        <num>v0.6.0</num>
-        <commit>v0.6.0</commit>
-        <desc>v0.6.0</desc>
+        <num>v0.4.0</num>
+        <commit>v0.4.0</commit>
+        <desc>v0.4.0</desc>
       </version>
     </versions>
   </middleware>
